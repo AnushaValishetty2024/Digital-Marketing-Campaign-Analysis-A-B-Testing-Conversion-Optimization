@@ -29,4 +29,7 @@ Stored and queried structured data using python (segmentation and filtering logi
 Built interactive dashboards in Power BI for visualization and insights reporting
 
 # Dashboard
-- https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20184935.png
+- Dashboard Image1 https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20184935.png
+- Dashboard Image2 https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20185007.png
+- Dashboard Image3
+- Dashboard Image4
