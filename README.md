@@ -29,7 +29,17 @@ Stored and queried structured data using python (segmentation and filtering logi
 Built interactive dashboards in Power BI for visualization and insights reporting
 
 # Dashboard
-- Dashboard Image1 <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20184935.png">Dashboard Image1</a>
-- Dashboard Image2 https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20185007.png
-- Dashboard Image3 https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20185039.png
-- Dashboard Image4
+- <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20184935.png">Dashboard Image1</a>
+- <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20185007.png">Dashboard Image2</a>
+- <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20185039.png">Dashboard Image3</a>
+- <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20185107.png">Dashboard Image4</a>
+
+# Project Insights
+- Conversion is not evenly distributed across age groups; younger users tend to respond better
+- Income alone is not a strong predictor of conversion (assumption often wrong in marketing teams)
+- One campaign variant clearly outperformed the other in conversion efficiency
+- Some high-income segments showed low engagement → wasted targeting potential
+-Gender-based differences exist but are not the strongest driver of conversion
+
+# Final Conclusion
+The campaign is partially optimized but still inefficient in targeting. Age segmentation and campaign variant selection have the highest impact on conversion performance, while income-based targeting is less effective than expected. The business should reallocate budget toward high-performing segments and refine underperforming audience groups instead of broad targeting.
