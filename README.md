@@ -8,4 +8,14 @@ To analyze marketing campaign performance using A/B testing data and identify fa
 - <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/digital_marketing_campaign_dataset%20csv.csv">Dataset</a>
 - <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/cleaned_data.csv">Cleaned data</a> 
 - <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/eda.py">eda</a>
-- 
+
+# Questions (KPIs)
+What is the overall conversion rate?
+Which age group performs best in conversions?
+Does income level impact conversion probability?
+Which gender shows higher engagement/conversion?
+What is the difference in performance between test variants (A vs B)?
+What is the average income of converting vs non-converting users?
+Which segments (age, income, gender) are underperforming?
+
+Dashboard Interaction-
