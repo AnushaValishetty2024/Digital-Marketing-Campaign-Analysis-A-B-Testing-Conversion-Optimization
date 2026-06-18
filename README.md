@@ -27,3 +27,6 @@ Created derived features like Age Group and Conversion Flags
 Conducted A/B test comparison between campaign variants
 Stored and queried structured data using python (segmentation and filtering logic)
 Built interactive dashboards in Power BI for visualization and insights reporting
+
+# Dashboard
+- https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/Screenshot%202026-06-18%20184935.png
