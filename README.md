@@ -19,3 +19,11 @@ What is the average income of converting vs non-converting users?
 Which segments (age, income, gender) are underperforming?
 
 Dashboard Interaction- <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/data%20analytics%20project%202%20dashboards.pbix"> View Dashboard</a>
+
+# Process
+Cleaned raw dataset (handled missing values, corrected data types) using Excel & Python
+Performed exploratory data analysis (EDA) in Python (pandas, matplotlib/seaborn)
+Created derived features like Age Group and Conversion Flags
+Conducted A/B test comparison between campaign variants
+Stored and queried structured data using python (segmentation and filtering logic)
+Built interactive dashboards in Power BI for visualization and insights reporting
