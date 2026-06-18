@@ -18,4 +18,4 @@ What is the difference in performance between test variants (A vs B)?
 What is the average income of converting vs non-converting users?
 Which segments (age, income, gender) are underperforming?
 
-Dashboard Interaction-
+Dashboard Interaction- <a href="https://github.com/AnushaValishetty2024/Digital-Marketing-Campaign-Analysis-A-B-Testing-Conversion-Optimization/blob/main/data%20analytics%20project%202%20dashboards.pbix"> View Dashboard</a>
